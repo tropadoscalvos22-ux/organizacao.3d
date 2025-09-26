@@ -1,0 +1,18 @@
+body {
+  background-color: #222831; /* muda a cor de fundo da página */
+  font-family: Arial, sans-serif; /* muda o tipo de letra */
+  color: #eddfc5; /* <-- COR DE TODAS AS LETRAS DO SITE */
+}
+
+textarea {
+  width: 90%; /* ocupa quase toda a largura */
+  max-width: 600px; /* mas nunca fica maior que 600px */
+  display: block;
+  margin: 20px auto; /* centra no ecrã */
+  padding: 10px;
+  border-radius: 10px; /* cantos arredondados */
+  border: 1px solid #ccc;
+  font-size: 16px;
+  background-color: #393e46; /* cor do fundo da caixa de texto */
+  color: #eddfc5; /* cor do texto dentro da caixa */
+}
