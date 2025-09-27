@@ -16,3 +16,14 @@ textarea {
   background-color: #393e46; /* cor do fundo da caixa de texto */
   color: #eddfc5; /* cor do texto dentro da caixa */
 }
+input[type="date"] {
+  display: block;
+  margin: 10px auto; /* centra horizontalmente */
+  padding: 8px;
+  border-radius: 8px;
+  border: 1px solid #ccc;
+  font-size: 16px;
+  background-color: #393e46; /* para combinar com o fundo escuro */
+  color: #eddfc5; /* texto claro */
+}
+
