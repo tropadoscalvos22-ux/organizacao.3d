@@ -7,7 +7,7 @@
         <link rel="stylesheet" href="style.css">
     </head> 
 <body>
-    <textarea id="caixa1" rows="40" cols="100" placeholder="Escreve algo aqui (notas)..."></textarea>
+    <textarea id="caixa1" rows="80" cols="100" placeholder="Escreve algo aqui (notas)..."></textarea>
   
  <h1> Impressão para catos</h1>
     <ul>
@@ -55,7 +55,7 @@
         <li>Impressão para suportes</li> <input type="tel" /> <input type="number" /> <input type="text" placeholder="Escreve algo aqui">
 
 </ul>
-<textarea id="caixa2" rows="40" cols="100" placeholder="Escreve algo aqui (especifidades das encomendas)..."></textarea>
+<textarea id="caixa2" rows="80" cols="100" placeholder="Escreve algo aqui (especifidades das encomendas)..."></textarea>
 
 <script>
   const caixa1 = document.getElementById("caixa1");
