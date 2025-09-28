@@ -53,7 +53,7 @@
     <ul>
         <li>Impressão para catos </li> <input type="tel" /> <input type="number" /> <input type="text" placeholder="Escreve algo aqui">
         <li>Impressão para suportes</li> <input type="tel" /> <input type="number" /> <input type="text" placeholder="Escreve algo aqui">
-
+        <li>Pedidos aleatorios/expecificos </li> <input type="tel" /> <input type="number" /> <input type="text" placeholder="Escreve algo aqui">
 </ul>
 <textarea id="caixa2" rows="80" cols="100" placeholder="Escreve algo aqui (especifidades das encomendas)..."></textarea>
 
